@@ -150,3 +150,12 @@ git push
    - ✅ One showing the passing test output in your terminal  
    - ✅ One showing the green check mark in your GitHub repo after pushing  
 5. Submit both your GitHub repository link and the screenshots through Canvas
+
+
+### Citing:
+### This project was completed with assistance from ChatGPT (OpenAI),
+### used for guidance on Python syntax, error handling, and API integration.
+## Acknowledgments
+
+This project was created using the Dog CEO API. I received guidance and code assistance from ChatGPT (OpenAI) for writing functions, handling errors, and structuring the main program logic.
+
